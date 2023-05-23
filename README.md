@@ -1,3 +1,3 @@
 # Data-Analytics
 
-A repo for project involving Data Analytics & Science. 
+A repo for projects involving Data Analytics & Science. 
