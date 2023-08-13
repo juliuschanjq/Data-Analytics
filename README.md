@@ -1,5 +1,5 @@
 # Data-Analytics
 
-A repository utisiling random datasets for Data Analytics & Science, platforms utilised for this projects includes Jupyter Notebook, KNIME, PowerBI & Tableau.
+This repository is dedicated to exploring various datasets for Data Analytics & Science purposes within my own free time. The analysis involves using platforms such as Jupyter Notebook, KNIME, PowerBI, and Tableau to uncover insights and patterns within the data.
 
 
